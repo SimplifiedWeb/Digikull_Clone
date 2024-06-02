@@ -39,11 +39,11 @@ To get a local copy of this project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/education-organization-clone.git
+    git clone git@github.com:SimplifiedWeb/Digikull_Clone.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd education-organization-clone
+    cd DIGIKULL or run direclty.
     ```
 
 ## Usage
@@ -61,7 +61,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 If you have any questions or feedback, feel free to contact me at:
-- **Name:** [Your Name]
-- **Email:** [Your Email]
-- **GitHub:** [Your GitHub Profile URL]
+- **Name:** Faizan Shaikh
+- **Email:** faizanshaikh2002320@gmail.com
+- **GitHub:** https://github.com/SimplifiedWeb
 

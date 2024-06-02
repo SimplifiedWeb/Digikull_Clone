@@ -2,6 +2,8 @@
 
 This repository contains a clone of the website and dashboard of an educational organization. The clone is built using HTML, CSS, and JavaScript.
 
+## Live : https://665c1de56690d513cccfb7f4--peppy-puffpuff-ad6368.netlify.app/
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)

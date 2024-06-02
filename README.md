@@ -64,4 +64,5 @@ If you have any questions or feedback, feel free to contact me at:
 - **Name:** Faizan Shaikh
 - **Email:** faizanshaikh2002320@gmail.com
 - **GitHub:** https://github.com/SimplifiedWeb
+- **Linkedin:** https://www.linkedin.com/in/faizan-shaikh-510146260/
 
